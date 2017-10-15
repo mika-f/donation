@@ -39,6 +39,7 @@ export default {
         { name: 'Bitcoin', address: '1Gvd71AtuDRfkLkfpXcZtAantwJUjYv3tN', schema: 'bitcoin' },
         { name: 'BitZeny', address: 'ZbVpLYsDGGmNvKUzx7YRQm3MWpENQ19DNg', schema: 'bitzeny' },
         { name: 'Dash', address: 'XqAr2j1pTj34Yc9nLLsLCyFeEH9o32ghgf', schema: 'dash' },
+        { name: 'Dogecoin', address: 'D7Ydsu2TWWjdSaV1zfg9y8Y9Z4KJzh4ucp', schema: 'dogecoin' },
         { name: 'Litecoin', address: 'LVUiYNgvaynAvCYN45tjojGSfuWd2BSfUj', schema: 'litecoin' },
         { name: 'Monacoin', address: 'MC4x87u1ffmhsRhHof1sHz8UAtNtKCTQut', schema: 'monacoin' }
       ]
