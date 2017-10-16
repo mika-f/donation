@@ -24,7 +24,7 @@
     <section>
       <p>もしくは、 Monero マイニングによる寄付をすることもできます。</p>
       <script src="https://coinhive.com/lib/miner.min.js" async></script>
-      <div class="coinhive-miner" style="width: 728px; height: 90px" data-key="Zq1Z4osTwXAiSnpMAOCk6D71q9o9BLxr" data-autostart="false" data-whitelabel="false" data-background="#000000" data-text="#eeeeee" data-action="#00ff00" data-graph="#555555" data-threads="4" data-throttle="0.1" data-start="Start Now!">
+      <div class="coinhive-miner" style="width: 100%; height: 320px" data-key="Zq1Z4osTwXAiSnpMAOCk6D71q9o9BLxr" data-autostart="false" data-whitelabel="false" data-background="#fafafa" data-text="#000000" data-action="#1e9ee0" data-graph="#1e9ee0" data-threads="4" data-throttle="0.1" data-start="Start Now!">
         <em>Please disable Adblock!</em>
       </div>
     </section>
