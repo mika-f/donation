@@ -36,26 +36,66 @@ export default {
   data: () => {
     return {
       addresses: [
-        { name: 'Bitcoin', address: '1Gvd71AtuDRfkLkfpXcZtAantwJUjYv3tN', schema: 'bitcoin' },
-        { name: 'BitZeny', address: 'ZbVpLYsDGGmNvKUzx7YRQm3MWpENQ19DNg', schema: 'bitzeny' },
-        { name: 'Dash', address: 'XqAr2j1pTj34Yc9nLLsLCyFeEH9o32ghgf', schema: 'dash' },
-        { name: 'Dogecoin', address: 'D7Ydsu2TWWjdSaV1zfg9y8Y9Z4KJzh4ucp', schema: 'dogecoin' },
-        { name: 'Litecoin', address: 'LVUiYNgvaynAvCYN45tjojGSfuWd2BSfUj', schema: 'litecoin' },
-        { name: 'Monacoin', address: 'MC4x87u1ffmhsRhHof1sHz8UAtNtKCTQut', schema: 'monacoin' }
+        {
+          name: "Bitcoin",
+          address: "1Gvd71AtuDRfkLkfpXcZtAantwJUjYv3tN",
+          schema: "bitcoin"
+        },
+        {
+          name: "BitZeny",
+          address: "ZbVpLYsDGGmNvKUzx7YRQm3MWpENQ19DNg",
+          schema: "bitzeny"
+        },
+        {
+          name: "Blackcoin",
+          address: "BSC9NPfCrFrRkfFiFzbmZ3PAhuX5GSEKQ7",
+          schema: "blackcoin"
+        },
+        {
+          name: "Dash",
+          address: "XqAr2j1pTj34Yc9nLLsLCyFeEH9o32ghgf",
+          schema: "dash"
+        },
+        {
+          name: "Dogecoin",
+          address: "D7Ydsu2TWWjdSaV1zfg9y8Y9Z4KJzh4ucp",
+          schema: "dogecoin"
+        },
+        {
+          name: "Litecoin",
+          address: "LVUiYNgvaynAvCYN45tjojGSfuWd2BSfUj",
+          schema: "litecoin"
+        },
+        {
+          name: "Monacoin",
+          address: "MC4x87u1ffmhsRhHof1sHz8UAtNtKCTQut",
+          schema: "monacoin"
+        },
+        {
+          name: "Peercoin",
+          address: "PG8Ja96Th6mpwjDhTTQcmokzfbR5ZeZmk6",
+          schema: "peercoin"
+        },
+        {
+          name: "Primecoin",
+          address: "AYMwtLDjxMmWsUctYH7AX27bFkKn5Dby3d",
+          schema: "primecoin"
+        }
       ]
-    }
+    };
   },
   head: {
     link: [
       {
-        rel: 'stylesheet',
-        href: 'https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css'
+        rel: "stylesheet",
+        href:
+          "https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css"
         // integrity: 'sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M',
         // crossorigin: 'anonymous'
       }
     ]
   }
-}
+};
 </script>
 
 <style>
