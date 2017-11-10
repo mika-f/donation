@@ -42,6 +42,11 @@ export default {
           schema: "bitcoin"
         },
         {
+          name: "Bitcoin Cash",
+          address: "32ctqTga55CcV84kY9WHUMKZwjSJBMGJfH",
+          schema: ""
+        },
+        {
           name: "BitZeny",
           address: "ZbVpLYsDGGmNvKUzx7YRQm3MWpENQ19DNg",
           schema: "bitzeny"
