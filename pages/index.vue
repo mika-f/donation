@@ -47,6 +47,11 @@ export default {
           schema: ""
         },
         {
+          name: "BitCore",
+          address: "15PseUcuyrZ1uRTJHCCeDBkj9P5dFdnMhP",
+          schema: "bitcore"
+        },
+        {
           name: "BitZeny",
           address: "ZbVpLYsDGGmNvKUzx7YRQm3MWpENQ19DNg",
           schema: "bitzeny"
