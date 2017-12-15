@@ -90,6 +90,11 @@ export default {
           name: "Primecoin",
           address: "AYMwtLDjxMmWsUctYH7AX27bFkKn5Dby3d",
           schema: "primecoin"
+        },
+        {
+          name: "XP",
+          address: "XZvrWCPeHtzBAUx2P3fcwGCB5kSsfiXMc6",
+          schema: "xp"
         }
       ]
     };
