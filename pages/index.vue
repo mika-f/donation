@@ -161,7 +161,7 @@ export default {
             address: "0xfd0859b6f00bee9777511c96cd3e86418390a99d"
           },
           {
-            name: "Angur",
+            name: "Augur",
             address: "0x423a129b99d3a8be088dcec89878ca8dba67a775"
           },
           {
